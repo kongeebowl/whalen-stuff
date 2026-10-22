@@ -21,6 +21,9 @@ int main() {
   case 9:
   case 10:
     printf("A");
+
     break;
+  default:
+    printf("fake score die");
   }
 }
